@@ -1,6 +1,6 @@
 Olá, mundo!
 
-Esse projeto tem como objetivo discutir e explanar o algoritmo de Huffman e mostrar a sua implemetação. Logo, é possivel analisar o seu funcionamento em um exemplo simples e prático presente no artigo TP1_Rodrigo_Berino_AlgoritmoDeHuffman.pdf
+Esse projeto tem como objetivo discutir e explanar o algoritmo de Huffman e mostrar a sua implementação. Logo, é possivel analisar o seu funcionamento em um exemplo simples e prático presente no artigo TP1_Rodrigo_Berino_AlgoritmoDeHuffman.pdf
 
 # Sobre o repositório
 
